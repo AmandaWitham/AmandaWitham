@@ -2,7 +2,7 @@
 I'm a passionate Data Analyst with a love for creating innovative solutions and learning new technologies. 
 
 ## 🚀 About Me
-- 💻 I assist with strtategic reporting on our company's Transformation Projects, Programmes and Portfolios.
+- 💻 I assist with strategic reporting on our company's Transformation Projects, Programmes and Portfolios.
 - 🌱 I’m currently doing a Level 4 Apprenticeship in Data Analysis via Multiverse and learning Python and SQL.
 - 👯 My team is looking to move from Excel-based to alternative Project Management Tools.
 - 💬 Ask me about Excel, VBA, Power Query, Power BI, SharePoint Web Design, Data Lifecycle and Data Visualisation.
